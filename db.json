@@ -1,10 +1,3 @@
 {
-  "books": [
-    { "id": 1, "title": "hp1", "price": 100, "year": 2017 },
-    { "id": 2, "title": "hp2", "price": 200, "year": 2011 },
-    { "id": 3, "title": "hp3", "price": 300, "year": 2023 }
-  ],
-  "wishlist": [
-    { "id": 1, "title": "hp1", "price": 100, "year": 2017 }
-  ]
+  "prod": []
 }
