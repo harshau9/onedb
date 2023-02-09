@@ -6,7 +6,9 @@
       "author": "JK Rowling",
       "genre": "Fiction",
       "edition": 2020,
-      "publisher": "swan"
+      "publisher": "swan",
+      "cost": 1200,
+		  "borrowed": false
     },
     {
       "image": "https://kbimages1-a.akamaihd.net/bd02da79-b80a-42ef-a788-168ae2f20393/1200/1200/False/harry-potter-and-the-deathly-hallows-4.jpg",
@@ -14,7 +16,9 @@
       "author": "JK Rowling",
       "genre": "fiction",
       "edition": 2021,
-      "publisher": "swan"
+      "publisher": "swan",
+      "cost": 2030,
+		  "borrowed": false
     },
     {
       "image": "https://m.media-amazon.com/images/I/51-ytMxd7YL.jpg",
@@ -22,7 +26,9 @@
       "author": "john",
       "genre": "science",
       "edition": 2022,
-      "publisher": "swan"
+      "publisher": "swan",
+      "cost": 900,
+		  "borrowed": false
     },
     {
       "image": "https://pbs.twimg.com/media/Ca29a8jXEAA7XRK?format=jpg&name=medium",
@@ -30,7 +36,9 @@
       "author": "JK Rowling",
       "genre": "history",
       "edition": 2020,
-      "publisher": "swan"
+      "publisher": "swan",
+      "cost": 1400,
+		  "borrowed": true
     },
     {
       "image": "https://pbs.twimg.com/media/Ca29a8jXEAA7XRK?format=jpg&name=medium",
@@ -38,7 +46,9 @@
       "author": "john",
       "genre": "tech",
       "edition": 2021,
-      "publisher": "swan"
+      "publisher": "swan",
+      "cost": 700,
+		  "borrowed": false
     },
     {
       "image": "https://www.rd.com/wp-content/uploads/2019/11/the-very-hungry-caterpillar-by-eric-carle-children-s-book-via-amazon-com-ecomm.jpg?fit=700,700",
@@ -46,7 +56,9 @@
       "author": "adam",
       "genre": "business",
       "edition": 2022,
-      "publisher": "swan"
+      "publisher": "swan",
+      "cost": 600,
+      "borrowed": false
     }
   ]
 }
